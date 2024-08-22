@@ -1,0 +1,76 @@
+{
+  "_fv": 66,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 175,
+    "height": 77,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ding_yi_c4zha_dan_de_wei_li",
+          "text": {
+            "fixedValue": "自定义全局C4爆炸威力"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 168,
+          "y": 87
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "gamerule c4ExplosivePowerSet 45",
+          "name": "c4power",
+          "width": 120,
+          "height": 20,
+          "x": 155,
+          "y": 105
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_wan_cheng",
+          "text": "完成",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Setgamerulec4power"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 195,
+          "y": 130
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_qing_wu_bi_tian_xie_shu_zi",
+          "text": {
+            "fixedValue": "请务必填写数字！！！"
+          },
+          "width": 121,
+          "height": 18,
+          "x": 155,
+          "y": 105
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 27,
+      "sy": 18,
+      "ox": 11,
+      "oy": 11,
+      "snapOnGrid": true
+    }
+  }
+}

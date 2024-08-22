@@ -1,0 +1,64 @@
+{
+  "_fv": 66,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "bow",
+    "customModelName": "Tool",
+    "customProperties": {},
+    "states": [],
+    "name": "明小天的无限♾️火把弓",
+    "rarity": "UNCOMMON",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MingxtFunMod"
+      },
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "stackSize": 1,
+    "enchantability": 15,
+    "useDuration": 32000,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "好用是好用，就是贵"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedOnBlock": {
+      "name": "MingxtwuxianturchDangYouJiFangKuaiShiFangKuaiDeWeiZhi"
+    },
+    "enableRanged": true,
+    "shootConstantly": true,
+    "rangedItemChargesPower": false,
+    "projectile": {
+      "value": "CUSTOM:Mingxttanshe"
+    },
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "bow"
+  }
+}

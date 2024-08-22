@@ -1,0 +1,29 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "音乐唱片",
+    "rarity": "UNCOMMON",
+    "texture": "mingxtc4chang",
+    "description": "Ming_xt C4爆炸啦",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MingxtFunMod"
+      },
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:mingxtcpuboom"
+    },
+    "lengthInTicks": 80,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_fv": 66,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Mingxtvilage",
+    "pointOfInterest": {
+      "value": "CUSTOM:Mingxtblock"
+    },
+    "actionSound": {
+      "value": "entity.creeper.primed"
+    },
+    "hat": "Partial",
+    "professionTextureFile": "wei_xin_tu_pian__20240705234143.png",
+    "zombifiedProfessionTextureFile": "wei_xin_tu_pian__20240705234143.png"
+  }
+}

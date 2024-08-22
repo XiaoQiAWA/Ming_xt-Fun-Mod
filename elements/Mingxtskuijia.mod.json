@@ -1,0 +1,107 @@
+{
+  "_fv": 66,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "mingxt_head",
+    "enableBody": true,
+    "textureBody": "mingxt_body",
+    "enableLeggings": true,
+    "textureLeggings": "mingxt_leggings",
+    "enableBoots": true,
+    "textureBoots": "mingxt_boots",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:MingxtFunMod"
+      },
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "armorTextureFile": "mingxt",
+    "helmetName": "明小天的头盔",
+    "bodyName": "明小天的胸甲",
+    "leggingsName": "明小天的护腿",
+    "bootsName": "明小天的靴子",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetGlowCondition": {
+      "fixedValue": false
+    },
+    "bodyGlowCondition": {
+      "fixedValue": false
+    },
+    "leggingsGlowCondition": {
+      "fixedValue": false
+    },
+    "bootsGlowCondition": {
+      "fixedValue": false
+    },
+    "helmetPiglinNeutral": {
+      "fixedValue": true
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": true
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": true
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": true
+    },
+    "maxDamage": 7,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 3.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": "CUSTOM:mingxtcpuboom"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Mingxtblock"
+      }
+    ]
+  }
+}

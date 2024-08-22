@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Mingxtwuxianturch"
+      },
+      {
+        "value": "CUSTOM:Mingxttorchx2"
+      },
+      {
+        "value": "Items.BOW"
+      },
+      {
+        "value": "CUSTOM:Mingxttorchx2"
+      },
+      {
+        "value": "Items.CROSSBOW"
+      },
+      {
+        "value": "CUSTOM:Mingxtingot"
+      },
+      {
+        "value": "Items.BOW"
+      },
+      {
+        "value": "CUSTOM:Mingxtingot"
+      },
+      {
+        "value": "CUSTOM:Mingxtblock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Test"
+    },
+    "name": "testr",
+    "namespace": "mod"
+  }
+}

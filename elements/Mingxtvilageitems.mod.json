@@ -1,0 +1,105 @@
+{
+  "_fv": 66,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:Mingxtvilage"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.NETHERITE_BLOCK"
+            },
+            "countPrice1": 5,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.ELYTRA"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 2,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Blocks.IRON_BLOCK"
+            },
+            "countPrice1": 10,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.NETHERITE_UPGRADE"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Blocks.COAL_BLOCK"
+            },
+            "countPrice1": 10,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Blocks.DIAMOND_ORE"
+            },
+            "countOffer": 5,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Blocks.EMERALD_BLOCK"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": "CUSTOM:Mingxtingot"
+            },
+            "countPrice2": 2,
+            "offer": {
+              "value": "Items.ENDER_PEARL"
+            },
+            "countOffer": 8,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Blocks.EMERALD_BLOCK"
+            },
+            "countPrice1": 5,
+            "price2": {
+              "value": "CUSTOM:Mingxtblock"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Blocks.DIAMOND_BLOCK"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

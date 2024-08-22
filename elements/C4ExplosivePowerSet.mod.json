@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "C4爆炸威力设置",
+    "description": "设置C4炸弹💣的爆炸威力，第二次爆炸威力则为此值*2",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 45
+  }
+}

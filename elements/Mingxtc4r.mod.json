@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Mmingmeitanx2"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "CUSTOM:Mmingmeitanx2"
+      },
+      {
+        "value": "CUSTOM:Mingxtblock"
+      },
+      {
+        "value": "CUSTOM:Mingmeitanx22"
+      },
+      {
+        "value": "CUSTOM:Mingxtblock"
+      },
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:C4"
+    },
+    "name": "mingxtc_4r",
+    "namespace": "mod"
+  }
+}

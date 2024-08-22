@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "ming_xt:mingxtblock"
+    }
+  },
+  "result": {
+    "item": "ming_xt:mingxtskuijia_boots",
+    "count": 1
+  }
+}

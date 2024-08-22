@@ -1,0 +1,35 @@
+{
+  "name": "ming_xt:feiqidemingxthomemen",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ming_xt:mingxtnewman1141",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:block_ignore",
+              "blocks": [
+                {
+                  "Name": "minecraft:structure_block"
+                },
+                {
+                  "Name": "minecraft:air"
+                },
+                {
+                  "Name": "minecraft:void_air"
+                },
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

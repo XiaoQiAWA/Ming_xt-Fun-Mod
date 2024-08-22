@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bde",
+    "cef"
+  ],
+  "key": {
+    "a": {
+      "item": "ming_xt:mingxtwuxianturch"
+    },
+    "b": {
+      "item": "ming_xt:mingxttorchx_2"
+    },
+    "c": {
+      "item": "minecraft:bow"
+    },
+    "d": {
+      "item": "minecraft:crossbow"
+    },
+    "e": {
+      "item": "ming_xt:mingxtingot"
+    },
+    "f": {
+      "item": "ming_xt:mingxtblock"
+    }
+  },
+  "result": {
+    "item": "ming_xt:mingxtwuxiangong",
+    "count": 1
+  }
+}

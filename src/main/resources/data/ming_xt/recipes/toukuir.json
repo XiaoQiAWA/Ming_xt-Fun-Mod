@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "ming_xt:mingxtblock"
+    }
+  },
+  "result": {
+    "item": "ming_xt:mingxtskuijia_helmet",
+    "count": 1
+  }
+}

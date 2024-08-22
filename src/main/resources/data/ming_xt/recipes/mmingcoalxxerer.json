@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ming_xt:mmingmeitanx_2"
+    }
+  },
+  "result": {
+    "item": "ming_xt:mingmeitanx_22",
+    "count": 1
+  }
+}

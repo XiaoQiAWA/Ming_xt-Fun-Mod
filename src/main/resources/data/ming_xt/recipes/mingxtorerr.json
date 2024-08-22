@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "ming_xt:mingxtore"
+  },
+  "result": "ming_xt:mingxtblock"
+}

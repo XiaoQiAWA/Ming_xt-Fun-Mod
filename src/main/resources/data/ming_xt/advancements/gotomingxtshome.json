@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "ming_xt:mingxtblock"
+    },
+    "title": {
+      "translate": "advancements.gotomingxtshome.title"
+    },
+    "description": {
+      "translate": "advancements.gotomingxtshome.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "gotomingxtshome_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "ming_xt:mingxthome"
+      }
+    }
+  }
+}

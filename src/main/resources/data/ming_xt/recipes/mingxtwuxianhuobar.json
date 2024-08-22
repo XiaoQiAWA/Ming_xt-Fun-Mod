@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bab",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "ming_xt:mingxtblock"
+    },
+    "b": {
+      "item": "minecraft:diamond_block"
+    },
+    "c": {
+      "item": "ming_xt:mingxttorchx_2"
+    }
+  },
+  "result": {
+    "item": "ming_xt:mingxtwuxianturch",
+    "count": 1
+  }
+}

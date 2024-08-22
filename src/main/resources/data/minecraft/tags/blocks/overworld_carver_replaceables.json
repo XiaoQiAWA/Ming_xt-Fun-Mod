@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:polished_andesite",
+    "minecraft:smooth_stone",
+    "minecraft:grass_block"
+  ]
+}

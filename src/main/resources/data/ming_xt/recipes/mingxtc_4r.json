@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ebe"
+  ],
+  "key": {
+    "a": {
+      "item": "ming_xt:mmingmeitanx_2"
+    },
+    "b": {
+      "item": "minecraft:tnt"
+    },
+    "c": {
+      "item": "ming_xt:mingxtblock"
+    },
+    "d": {
+      "item": "ming_xt:mingmeitanx_22"
+    },
+    "e": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "ming_xt:c_4",
+    "count": 1
+  }
+}

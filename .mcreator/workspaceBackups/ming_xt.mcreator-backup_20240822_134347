@@ -1,0 +1,1228 @@
+{
+  "mod_elements": [
+    {
+      "name": "Minngxtcpub",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minngxtc4b",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/minngxtc4b.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MinngxtcpubItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MingxtblockDangShiTiZaiFangKuaiShangXingZouShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtblock_dang_shi_ti_zai_fang_kuai_shang_xing_zou_shi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/MingxtblockDangShiTiZaiFangKuaiShangXingZouShiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mingxtblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/blockstates/mingxtblock.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/MingxtblockBlock.java",
+          "src/main/resources/assets/ming_xt/models/item/mingxtblock.json",
+          "src/main/resources/data/ming_xt/loot_tables/blocks/mingxtblock.json",
+          "src/main/resources/assets/ming_xt/models/block/mingxtblock.json"
+        ]
+      }
+    },
+    {
+      "name": "MingxtFunMod",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxt_fun_mod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Mingxtaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtaxeItem.java",
+          "src/main/resources/assets/ming_xt/models/item/mingxtaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtpickzxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtpickzxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtpickzxeItem.java",
+          "src/main/resources/assets/ming_xt/models/item/mingxtpickzxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/mingxtsword.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtingotItem.java",
+          "src/main/resources/assets/ming_xt/models/item/mingxtingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtingotr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtingotr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtingotr.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtblockr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtblockr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtblockr.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtingotr2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtingotr_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtingotr_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtblockc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtblockc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtblockc.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtaxer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtaxer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtaxer.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtaxer2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtaxer_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtaxer_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtpickaxer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtpickaxer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtpickaxer.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtswordr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtswordr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtswordr.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtswordr2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtswordr_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtswordr_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtswordr3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtswordr_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtswordr_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtvilage",
+      "type": "villagerprofession",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtvilage",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/textures/entity/villager/profession/mingxtvilage.png.mcmeta"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtvilageitems",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtvilageitems",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Mingxtsface",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtsface",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/client/gui/MingxtsfaceScreen.java",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/world/inventory/MingxtsfaceMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "MingxtfacekeyAnXiaAnJianShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtfacekey_an_xia_an_jian_shi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/MingxtfacekeyAnXiaAnJianShiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mingxtfacekey",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtfacekey",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/network/MingxtfacekeyMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "C4boom",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_4boom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/C4boomProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "C4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/c_4.json",
+          "src/main/resources/assets/ming_xt/models/block/c_4.json",
+          "src/main/resources/data/ming_xt/loot_tables/blocks/c_4.json",
+          "src/main/resources/assets/ming_xt/blockstates/c_4.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/C4Block.java"
+        ]
+      }
+    },
+    {
+      "name": "C4boomhuo",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_4boomhuo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/C4boomhuoProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "C4DangFangKuaiBeiFangZhiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_4_dang_fang_kuai_bei_fang_zhi_shi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/C4DangFangKuaiBeiFangZhiShiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mmingxtc4musicr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmingxtc_4musicr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mmingxtc_4musicr.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtc4r",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtc_4r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtc_4r.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/worldgen/configured_feature/mingxtore.json",
+          "src/main/resources/assets/ming_xt/models/item/mingxtore.json",
+          "src/main/resources/data/ming_xt/forge/biome_modifier/mingxtore_biome_modifier.json",
+          "src/main/resources/assets/ming_xt/blockstates/mingxtore.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/MingxtoreBlock.java",
+          "src/main/resources/data/ming_xt/loot_tables/blocks/mingxtore.json",
+          "src/main/resources/assets/ming_xt/models/block/mingxtore.json",
+          "src/main/resources/data/ming_xt/worldgen/placed_feature/mingxtore.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtrowore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtrowore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/mingxtrowore.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtroworeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Mingdeepore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingdeepore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/MingdeeporeBlock.java",
+          "src/main/resources/assets/ming_xt/models/item/mingdeepore.json",
+          "src/main/resources/data/ming_xt/loot_tables/blocks/mingdeepore.json",
+          "src/main/resources/data/ming_xt/worldgen/configured_feature/mingdeepore.json",
+          "src/main/resources/assets/ming_xt/blockstates/mingdeepore.json",
+          "src/main/resources/assets/ming_xt/models/block/mingdeepore.json",
+          "src/main/resources/data/ming_xt/forge/biome_modifier/mingdeepore_biome_modifier.json",
+          "src/main/resources/data/ming_xt/worldgen/placed_feature/mingdeepore.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingorer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingorer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingorer.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtorerr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtorerr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtorerr.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtorerrr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtorerrr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtorerrr.json"
+        ]
+      }
+    },
+    {
+      "name": "MingxtwuxianturchDangYouJiFangKuaiShiFangKuaiDeWeiZhi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtwuxianturch_dang_you_ji_fang_kuai_shi_fang_kuai_de_wei_zhi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/MingxtwuxianturchDangYouJiFangKuaiShiFangKuaiDeWeiZhiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mingxtwuxianturch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtwuxianturch",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/mingxtwuxianturch.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtwuxianturchItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtwuxianhuobar",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtwuxianhuobar",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mingxtwuxianhuobar.json"
+        ]
+      }
+    },
+    {
+      "name": "Mmingmeitanx2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmingmeitanx_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/block/mmingmeitanx_2.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/Mmingmeitanx2Block.java",
+          "src/main/resources/assets/ming_xt/models/item/mmingmeitanx_2.json",
+          "src/main/resources/assets/ming_xt/blockstates/mmingmeitanx_2.json",
+          "src/main/resources/data/ming_xt/loot_tables/blocks/mmingmeitanx_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingmeitanx22",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingmeitanx_22",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/Mingmeitanx22Block.java",
+          "src/main/resources/assets/ming_xt/blockstates/mingmeitanx_22.json",
+          "src/main/resources/data/ming_xt/loot_tables/blocks/mingmeitanx_22.json",
+          "src/main/resources/assets/ming_xt/models/item/mingmeitanx_22.json",
+          "src/main/resources/assets/ming_xt/models/block/mingmeitanx_22.json"
+        ]
+      }
+    },
+    {
+      "name": "Mmingcoalxxer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmingcoalxxer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mmingcoalxxer.json"
+        ]
+      }
+    },
+    {
+      "name": "Mmingcoalxxerer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmingcoalxxerer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/mmingcoalxxerer.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxttorchx2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxttorchx_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/Mingxttorchx2Item.java",
+          "src/main/resources/assets/ming_xt/models/item/mingxttorchx_2.json"
+        ]
+      }
+    },
+    {
+      "name": "MTorchrrrrrin",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_torchrrrrrin",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/m_torchrrrrrin.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxtskuijia",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtskuijia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/mingxtskuijia_leggings.json",
+          "src/main/resources/assets/ming_xt/models/item/mingxtskuijia_helmet.json",
+          "src/main/resources/assets/ming_xt/models/item/mingxtskuijia_boots.json",
+          "src/main/resources/assets/ming_xt/models/item/mingxtskuijia_chestplate.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxtskuijiaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Toukuir",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toukuir",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/toukuir.json"
+        ]
+      }
+    },
+    {
+      "name": "Xiongr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xiongr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/xiongr.json"
+        ]
+      }
+    },
+    {
+      "name": "Tuir",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuir",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/tuir.json"
+        ]
+      }
+    },
+    {
+      "name": "Tuirrrrrr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuirrrrrr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/tuirrrrrr.json"
+        ]
+      }
+    },
+    {
+      "name": "Mingxthome",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxthome",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/MingxthomeItem.java",
+          "src/main/resources/assets/ming_xt/blockstates/mingxthome_portal.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/world/teleporter/MingxthomePortalShape.java",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/world/teleporter/MingxthomeTeleporter.java",
+          "src/main/resources/assets/ming_xt/models/block/mingxthome_portal_ew.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/world/dimension/MingxthomeDimension.java",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/block/MingxthomePortalBlock.java",
+          "src/main/resources/assets/ming_xt/models/block/mingxthome_portal_ns.json",
+          "src/main/resources/data/ming_xt/dimension_type/mingxthome.json",
+          "src/main/resources/data/ming_xt/dimension/mingxthome.json",
+          "src/main/resources/assets/ming_xt/models/item/mingxthome.json"
+        ]
+      }
+    },
+    {
+      "name": "Feiqidemingxthomemen",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "feiqidemingxthomemen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/worldgen/template_pool/feiqidemingxthomemen.json",
+          "src/main/resources/data/ming_xt/worldgen/structure/feiqidemingxthomemen.json",
+          "src/main/resources/data/ming_xt/worldgen/structure_set/feiqidemingxthomemen.json"
+        ]
+      }
+    },
+    {
+      "name": "C4ExplosivePowerSet",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_4_explosive_power_set",
+      "metadata": {
+        "files": [],
+        "type": "number"
+      }
+    },
+    {
+      "name": "Gotomingxtshome",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gotomingxtshome",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/advancements/gotomingxtshome.json"
+        ]
+      }
+    },
+    {
+      "name": "Mmingxtforest",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmingxtforest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/worldgen/biome/mmingxtforest.json",
+          "src/main/resources/data/ming_xt/worldgen/configured_feature/mmingxtforest_tree.json",
+          "src/main/resources/data/ming_xt/worldgen/placed_feature/mmingxtforest_tree.json"
+        ]
+      }
+    },
+    {
+      "name": "MingxttansheDanSheWuJiZhongFangKuaiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxttanshe_dan_she_wu_ji_zhong_fang_kuai_shi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/MingxttansheDanSheWuJiZhongFangKuaiShiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mingxttanshe",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxttanshe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/entity/MingxttansheEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mingxtwuxiangong",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/mingxtwuxiangong.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/TestItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Testr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "testr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/testr.json"
+        ]
+      }
+    },
+    {
+      "name": "WCNB",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wcnb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/advancements/wcnb.json"
+        ]
+      }
+    },
+    {
+      "name": "PCL",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pcl",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ming_xt/models/item/pcl.json",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/item/PCLItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pclr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pclr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ming_xt/recipes/pclr.json"
+        ]
+      }
+    },
+    {
+      "name": "Ccustomc4power",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ccustomc_4power",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/world/inventory/Ccustomc4powerMenu.java",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/network/Ccustomc4powerButtonMessage.java",
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/client/gui/Ccustomc4powerScreen.java"
+        ]
+      }
+    },
+    {
+      "name": "Setgamerulec4power",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "setgamerulec_4power",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/Setgamerulec4powerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test5",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/xiaoawaqi/mingxtfunmod/procedures/Test5Procedure.java"
+        ],
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "mingxtcpuboom",
+      "files": [
+        "7yue_18ri_"
+      ],
+      "category": "music",
+      "subtitle": "Ming_xt:MY CPU!!!!!!"
+    }
+  ],
+  "tag_elements": {
+    "BIOMES:minecraft:has_structure/stronghold": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/shipwreck_beached": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Mingxtpickzxe"
+    ],
+    "BLOCKS:minecraft:overworld_carver_replaceables": [
+      "~Blocks.STONE#6",
+      "~Blocks.SMOOTH_STONE",
+      "~Blocks.GRASS"
+    ],
+    "BIOMES:minecraft:has_structure/bastion_remnant": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Mmingmeitanx2",
+      "~CUSTOM:Mingdeepore",
+      "~CUSTOM:Mingxtore",
+      "~CUSTOM:Mingxtblock"
+    ],
+    "BIOMES:minecraft:has_structure/jungle_temple": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:Mmingmeitanx2",
+      "~CUSTOM:Mingxtblock"
+    ],
+    "BIOMES:minecraft:has_structure/ocean_monument": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/buried_treasure": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Mingxtaxe"
+    ],
+    "BIOMES:minecraft:has_structure/desert_pyramid": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/swamp_hut": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/shipwreck": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Mingdeepore",
+      "~CUSTOM:Mingxtore"
+    ],
+    "BIOMES:minecraft:has_structure/igloo": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/woodland_mansion": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Mingxtsword"
+    ],
+    "BIOMES:minecraft:has_structure/pillager_outpost": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/village_plains": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/mineshaft": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "BIOMES:minecraft:has_structure/ruined_portal_standard": [
+      "~CUSTOM:Mmingxtforest"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Minngxtcpub"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "gui.ming_xt.ccustomc_4power.tooltip_qing_wu_bi_tian_xie_shu_zi": "请务必填写数字！！！",
+      "item.ming_xt.mingxthome": "Mingxthome Portal Igniter",
+      "entity.minecraft.villager.ming_xt.mingxtvilage": "Mingxtvilage",
+      "item.mingxtfunmod.mingxtskuijia_boots": "明小天的靴子",
+      "item.mingxtfunmod.mingxtwuxianturch": "Mingxtwuxianturch",
+      "item.mingxtfunmod.mingxthome": "Mingxthome Portal Igniter",
+      "item.ming_xt.mingxtskuijia_boots": "明小天的靴子",
+      "block.mingxtfunmod.mingmeitanx_22": "二重压缩煤炭快",
+      "key.mingxtfunmod.mingxtfacekey": "Mingxtfacekey",
+      "item.ming_xt.mingxtpickzxe": "Mingxtpickzxe",
+      "item.ming_xt.pcl": "PCL2",
+      "block.mingxtfunmod.mingxtblock": "Mingxtblock",
+      "item.mingxtfunmod.mingxtaxe": "Mingxtaxe",
+      "item.ming_xt.mingxtingot": "Mingxtingot",
+      "item.mingxtfunmod.mingxtskuijia_chestplate": "明小天的胸甲",
+      "item.mingxtfunmod.pcl": "PCL2",
+      "item.ming_xt.mingxtwuxiangong": "明小天的无限♾️火把弓",
+      "item.mingxtfunmod.mingxtrowore": "Mingxtrowore",
+      "gui.ming_xt.ccustomc_4power.button_wan_cheng": "完成",
+      "item.mingxtfunmod.mingxtwuxiangong": "明小天的无限♾️火把弓",
+      "advancements.wcnb.descr": "得到一把明小天的无限♾️火把弓",
+      "item.ming_xt.mingxttorchx_2": "Mingxttorchx 2",
+      "item.mingxtfunmod.mingxtpickzxe": "Mingxtpickzxe",
+      "advancements.gotomingxtshome.descr": "进入明小天的家维度",
+      "gamerule.c4ExplosivePowerSet.description": "设置C4炸弹💣的爆炸威力，第二次爆炸威力则为此值*2",
+      "gui.mingxtfunmod.ccustomc_4power.tooltip_qing_wu_bi_tian_xie_shu_zi": "请务必填写数字！！！",
+      "item.ming_xt.mingxtskuijia_chestplate": "明小天的胸甲",
+      "item.mingxtfunmod.mingxttorchx_2": "Mingxttorchx 2",
+      "item.ming_xt.mingxtwuxianturch": "Mingxtwuxianturch",
+      "block.mingxtfunmod.c_4": "C4炸弹",
+      "block.mingxtfunmod.mmingmeitanx_2": "一重压缩煤炭块",
+      "item.mingxtfunmod.mingxtsword": "Mingxtsword",
+      "key.ming_xt.mingxtfacekey": "Mingxtfacekey",
+      "item.ming_xt.mingxtrowore": "Mingxtrowore",
+      "item.mingxtfunmod.minngxtc4b": "音乐唱片",
+      "block.mingxtfunmod.mingdeepore": "Mingdeepore",
+      "block.ming_xt.mmingmeitanx_2": "一重压缩煤炭块",
+      "item.ming_xt.mingxtskuijia_helmet": "明小天的头盔",
+      "subtitles.mingxtcpuboom": "Ming_xt:YEEEEEEEEEEEEEEE!!!!!!",
+      "item.mingxtfunmod.mingxtskuijia_helmet": "明小天的头盔",
+      "biome.ming_xt.mmingxtforest": "Mmingxtforest",
+      "item.ming_xt.mingxtaxe": "Mingxtaxe",
+      "item.ming_xt.mingxtsword": "Mingxtsword",
+      "entity.minecraft.villager.mingxtfunmod.mingxtvilage": "Mingxtvilage",
+      "item_group.mingxtfunmod.mingxt_fun_mod": "Mingxt Fun Mod",
+      "gamerule.c4ExplosivePowerSet": "C4爆炸威力设置",
+      "item.ming_xt.minngxtc4b.desc": "Ming_xt C4爆炸啦",
+      "item.ming_xt.minngxtc4b": "音乐唱片",
+      "gui.mingxtfunmod.ccustomc_4power.tooltip_qing_jiang_c4explosivepowersethou_mian_de_shu_zi_xiu_gai": "请将c4ExplosivePowerSet后面的数字修改",
+      "gui.mingxtfunmod.ccustomc_4power.button_wan_cheng": "完成",
+      "block.mingxtfunmod.mingxtore": "Mingxtore",
+      "item.mingxtfunmod.minngxtc4b.desc": "Ming_xt C4爆炸啦",
+      "block.ming_xt.mingxtblock": "Mingxtblock",
+      "block.ming_xt.mingxtore": "Mingxtore",
+      "advancements.wcnb.title": "WCNB",
+      "gui.mingxtfunmod.ccustomc_4power.c4power": "gamerule c4ExplosivePowerSet 45",
+      "item.mingxtfunmod.mingxtingot": "Mingxtingot",
+      "gui.ming_xt.ccustomc_4power.label_ding_yi_c4zha_dan_de_wei_li": "自定义全局C4爆炸威力",
+      "item.ming_xt.mingxtskuijia_leggings": "明小天的护腿",
+      "block.ming_xt.mingdeepore": "Mingdeepore",
+      "advancements.gotomingxtshome.title": "欢迎来到明小天的家",
+      "gui.mingxtfunmod.ccustomc_4power.label_ding_yi_c4zha_dan_de_wei_li": "自定义全局C4爆炸威力",
+      "gui.ming_xt.ccustomc_4power.c4power": "gamerule c4ExplosivePowerSet 45",
+      "item_group.ming_xt.mingxt_fun_mod": "Mingxt Fun Mod",
+      "block.ming_xt.mingmeitanx_22": "二重压缩煤炭快",
+      "item.mingxtfunmod.mingxtskuijia_leggings": "明小天的护腿",
+      "block.ming_xt.c_4": "C4炸弹",
+      "log.mingxtfunmod.installed": "Ming_xt Fun Mod loaded!!",
+      "log.mingxtfunmod.installed2": "Oye~",
+      "biome.mingxtfunmod.mmingxtforest": "Mmingxtforest"
+    },
+    "zh_cn": {
+      "gui.ming_xt.ccustomc_4power.tooltip_qing_wu_bi_tian_xie_shu_zi": "请务必填写数字！！！",
+      "item.ming_xt.mingxthome": "Mingxthome Portal Igniter",
+      "entity.minecraft.villager.ming_xt.mingxtvilage": "Mingxtvilage",
+      "item.mingxtfunmod.mingxtskuijia_boots": "明小天靴子",
+      "item.mingxtfunmod.mingxtwuxianturch": "明小天的无限♾️火把",
+      "item.mingxtfunmod.mingxthome": "明小天家的大门钥匙",
+      "item.ming_xt.mingxtskuijia_boots": "明小天的靴子",
+      "block.mingxtfunmod.mingmeitanx_22": "二重压缩煤炭块",
+      "key.mingxtfunmod.mingxtfacekey": "打开明小天的大脸",
+      "item.ming_xt.mingxtpickzxe": "Mingxtpickzxe",
+      "item.ming_xt.pcl": "PCL2",
+      "block.mingxtfunmod.mingxtblock": "明小天之块",
+      "item.mingxtfunmod.mingxtaxe": "明小天之斧",
+      "item.ming_xt.mingxtingot": "Mingxtingot",
+      "item.mingxtfunmod.mingxtskuijia_chestplate": "明小天的胸甲",
+      "item.mingxtfunmod.pcl": "PCL2",
+      "item.ming_xt.mingxtwuxiangong": "明小天的无限♾️火把弓",
+      "item.mingxtfunmod.mingxtrowore": "粗小天",
+      "gui.ming_xt.ccustomc_4power.button_wan_cheng": "完成",
+      "item.mingxtfunmod.mingxtwuxiangong": "明小天的无限♾️火把弓",
+      "advancements.wcnb.descr": "得到一把明小天的无限♾️火把弓",
+      "item.ming_xt.mingxttorchx_2": "Mingxttorchx 2",
+      "item.mingxtfunmod.mingxtpickzxe": "明小天之镐",
+      "advancements.gotomingxtshome.descr": "进入明小天的家维度",
+      "gamerule.c4ExplosivePowerSet.description": "设置C4炸弹💣的爆炸威力，第二次爆炸威力则为此值*2",
+      "gui.mingxtfunmod.ccustomc_4power.tooltip_qing_wu_bi_tian_xie_shu_zi": "请务必填写数字！！！",
+      "item.ming_xt.mingxtskuijia_chestplate": "明小天的胸甲",
+      "item.mingxtfunmod.mingxttorchx_2": "二重压缩煤炭块制火把",
+      "item.ming_xt.mingxtwuxianturch": "Mingxtwuxianturch",
+      "block.mingxtfunmod.c_4": "C4炸弹💣",
+      "block.mingxtfunmod.mmingmeitanx_2": "一重压缩煤炭块",
+      "item.mingxtfunmod.mingxtsword": "明小天之圣剑",
+      "key.ming_xt.mingxtfacekey": "Mingxtfacekey",
+      "item.ming_xt.mingxtrowore": "Mingxtrowore",
+      "item.mingxtfunmod.minngxtc4b": "音乐唱片",
+      "block.mingxtfunmod.mingdeepore": "小天深矿石",
+      "block.ming_xt.mmingmeitanx_2": "一重压缩煤炭块",
+      "item.ming_xt.mingxtskuijia_helmet": "明小天的头盔",
+      "subtitles.mingxtcpuboom": "Ming_xt:YEEEEEEEEEEEEE!!!!!!",
+      "item.mingxtfunmod.mingxtskuijia_helmet": "明小天的头盔",
+      "biome.ming_xt.mmingxtforest": "Mmingxtforest",
+      "item.ming_xt.mingxtaxe": "Mingxtaxe",
+      "item.ming_xt.mingxtsword": "Mingxtsword",
+      "entity.minecraft.villager.mingxtfunmod.mingxtvilage": "Ming_xt",
+      "item_group.mingxtfunmod.mingxt_fun_mod": "明小天快乐模组",
+      "gamerule.c4ExplosivePowerSet": "C4爆炸威力设置（数字）",
+      "item.ming_xt.minngxtc4b.desc": "Ming_xt C4爆炸啦",
+      "item.ming_xt.minngxtc4b": "音乐唱片",
+      "gui.mingxtfunmod.ccustomc_4power.tooltip_qing_jiang_c4explosivepowersethou_mian_de_shu_zi_xiu_gai": "请将c4ExplosivePowerSet后面的数字修改",
+      "gui.mingxtfunmod.ccustomc_4power.button_wan_cheng": "完成",
+      "block.mingxtfunmod.mingxtore": "小天矿石",
+      "item.mingxtfunmod.minngxtc4b.desc": "Ming_xt C4爆炸啦",
+      "block.ming_xt.mingxtblock": "Mingxtblock",
+      "block.ming_xt.mingxtore": "Mingxtore",
+      "advancements.wcnb.title": "WCNB",
+      "gui.mingxtfunmod.ccustomc_4power.c4power": "45",
+      "item.mingxtfunmod.mingxtingot": "明小天之锭",
+      "gui.ming_xt.ccustomc_4power.label_ding_yi_c4zha_dan_de_wei_li": "自定义全局C4爆炸威力",
+      "item.ming_xt.mingxtskuijia_leggings": "明小天的护腿",
+      "block.ming_xt.mingdeepore": "Mingdeepore",
+      "advancements.gotomingxtshome.title": "欢迎来到明小天的家",
+      "gui.mingxtfunmod.ccustomc_4power.label_ding_yi_c4zha_dan_de_wei_li": "自定义全局C4爆炸威力",
+      "gui.ming_xt.ccustomc_4power.c4power": "gamerule c4ExplosivePowerSet 45",
+      "item_group.ming_xt.mingxt_fun_mod": "Mingxt Fun Mod",
+      "block.ming_xt.mingmeitanx_22": "二重压缩煤炭快",
+      "item.mingxtfunmod.mingxtskuijia_leggings": "明小天的护腿",
+      "block.ming_xt.c_4": "C4炸弹",
+      "log.mingxtfunmod.installed": "明小天快乐模组已加载！！！",
+      "log.mingxtfunmod.installed2": "欧耶~",
+      "biome.mingxtfunmod.mmingxtforest": "明小天森林"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ming_xt",
+    "modName": "Ming_xt的快乐模组",
+    "version": "1.0.6.7",
+    "description": "明小天🐂🍺",
+    "author": "Xiao_AwA_qi , Ming_xt",
+    "websiteURL": "https://space.bilibili.com/3493143982901884",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "明小天🐂🍺 由B站UPx小O齐x为其制作，主页：https://space.bilibili.com/3493143982901884 B站UP明小天不是猫 主页：https://space.bilibili.com/694306843",
+    "modElementsPackage": "net.xiaoawaqi.mingxtfunmod"
+  },
+  "mcreatorVersion": 202400232117
+}

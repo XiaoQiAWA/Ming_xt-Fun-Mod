@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ming_xt:block/mingxtore",
+    "up": "ming_xt:block/mingxtore",
+    "north": "ming_xt:block/mingxtore",
+    "east": "ming_xt:block/mingxtore",
+    "south": "ming_xt:block/mingxtore",
+    "west": "ming_xt:block/mingxtore",
+    "particle": "ming_xt:block/mingxtore"
+  },
+  "render_type": "solid"
+}

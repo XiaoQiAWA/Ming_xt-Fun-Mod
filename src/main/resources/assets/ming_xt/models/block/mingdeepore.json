@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ming_xt:block/deepslate_ming_ore",
+    "up": "ming_xt:block/deepslate_ming_ore",
+    "north": "ming_xt:block/deepslate_ming_ore",
+    "east": "ming_xt:block/deepslate_ming_ore",
+    "south": "ming_xt:block/deepslate_ming_ore",
+    "west": "ming_xt:block/deepslate_ming_ore",
+    "particle": "ming_xt:block/deepslate_ming_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "mingxtcpuboom": {
+    "subtitle": "subtitles.mingxtcpuboom",
+    "sounds": [
+      {
+        "name": "ming_xt:7yue_18ri_",
+        "stream": true
+      }
+    ]
+  }
+}

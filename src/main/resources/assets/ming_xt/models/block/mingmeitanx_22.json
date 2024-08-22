@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ming_xt:block/coalx3_block",
+    "up": "ming_xt:block/coalx3_block",
+    "north": "ming_xt:block/coalx3_block",
+    "east": "ming_xt:block/coalx3_block",
+    "south": "ming_xt:block/coalx3_block",
+    "west": "ming_xt:block/coalx3_block",
+    "particle": "ming_xt:block/coalx3_block"
+  },
+  "render_type": "solid"
+}

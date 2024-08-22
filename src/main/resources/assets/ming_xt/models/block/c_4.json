@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ming_xt:block/c4d",
+    "up": "ming_xt:block/c4s",
+    "north": "ming_xt:block/c4",
+    "east": "ming_xt:block/c4",
+    "south": "ming_xt:block/c4",
+    "west": "ming_xt:block/c4",
+    "particle": "ming_xt:block/c4d"
+  },
+  "render_type": "solid"
+}

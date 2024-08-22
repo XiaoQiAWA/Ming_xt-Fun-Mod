@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ming_xt:block/wei_xin_tu_pian__20240705234143",
+    "up": "ming_xt:block/wei_xin_tu_pian__20240705234143",
+    "north": "ming_xt:block/wei_xin_tu_pian__20240705234143",
+    "east": "ming_xt:block/wei_xin_tu_pian__20240705234143",
+    "south": "ming_xt:block/wei_xin_tu_pian__20240705234143",
+    "west": "ming_xt:block/wei_xin_tu_pian__20240705234143",
+    "particle": "ming_xt:block/wei_xin_tu_pian__20240705234143"
+  },
+  "render_type": "solid"
+}

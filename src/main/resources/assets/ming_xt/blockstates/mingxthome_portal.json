@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ming_xt:block/mingxthome_portal_ew"
+    },
+    "axis=x": {
+      "model": "ming_xt:block/mingxthome_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="ming_xt"
+version="1.0.6.7"
+displayName="Ming_xt的快乐模组"
+displayURL="https://space.bilibili.com/3493143982901884"
+logoFile="logo.png"
+credits="明小天🐂🍺 由B站UPx小O齐x为其制作，主页：https://space.bilibili.com/3493143982901884 B站UP明小天不是猫 主页：https://space.bilibili.com/694306843"
+authors="Xiao_AwA_qi , Ming_xt"
+description="明小天🐂🍺"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.ming_xt]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
